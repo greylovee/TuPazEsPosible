@@ -1,0 +1,9 @@
+NOMBRE   : f
+APELLIDO :f
+EDAD  :3
+GENERO  :
+DNI   :3
+DIRECCION :fdsafdsf dfsasdf
+TELEFONO :6546
+TELEFONOS DE CONTACTO  :
+INFORMACION:tgeg dgs 

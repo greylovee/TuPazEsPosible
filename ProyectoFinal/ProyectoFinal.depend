@@ -1,0 +1,79 @@
+# depslib dependency file v1.0
+1512008773 source:d:\ipoo\proyectofinal\main.cpp
+	<iostream>
+	"director.h"
+	"voluntario.h"
+	"paciente.h"
+
+1511757616 source:d:\ipoo\proyectofinal\src\inicio.cpp
+	"inicio.h"
+	<iostream>
+	<cstdlib>
+	<conio.h>
+
+1511757616 d:\ipoo\proyectofinal\include\inicio.h
+	<string>
+	<iostream>
+
+1511757616 source:d:\ipoo\proyectofinal\src\menu.cpp
+	"menu.h"
+	<iostream>
+	<cstdlib>
+
+1511758025 d:\ipoo\proyectofinal\include\menu.h
+	<iostream>
+
+1512010571 source:d:\ipoo\proyectofinal\src\paciente.cpp
+	"paciente.h"
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<conio.h>
+	<direct.h>
+	<string>
+
+1512010571 d:\ipoo\proyectofinal\include\paciente.h
+	<iostream>
+	"director.h"
+
+1511806411 d:\ipoo\proyectofinal\include\centro.h
+	<iostream>
+
+1511811993 source:d:\ipoo\proyectofinal\src\centro.cpp
+	<iostream>
+	<stdlib.h>
+	<fstream>
+
+1512006953 d:\ipoo\proyectofinal\include\director.h
+	<string>
+	<iostream>
+
+1511841412 source:d:\ipoo\proyectofinal\src\director.cpp
+	"director.h"
+	<iostream>
+	<cstdlib>
+	<conio.h>
+
+1512010721 d:\ipoo\proyectofinal\include\voluntario.h
+	<iostream>
+	"director.h"
+
+1512010752 source:d:\ipoo\proyectofinal\src\voluntario.cpp
+	"voluntario.h"
+	<fstream>
+	<cstdlib>
+	<conio.h>
+	<iostream>
+
+1512008541 source:d:\ipoo\proyectofinal\src\familiar.cpp
+	"Familiar.h"
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<conio.h>
+	<direct.h>
+	<string>
+
+1512008415 d:\ipoo\proyectofinal\include\familiar.h
+	"paciente.h"
+

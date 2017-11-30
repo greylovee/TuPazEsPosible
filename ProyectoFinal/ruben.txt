@@ -1,0 +1,5 @@
+NOMBRE   : ruben
+EDAD  :26
+DNI   :523455g
+TELEFONO :6654654
+FUNCION  :regar

@@ -1,0 +1,4 @@
+NOMBRE   : 1
+EDAD  :1
+DNI   :1
+TELEFONO :1

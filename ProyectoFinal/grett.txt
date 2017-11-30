@@ -1,0 +1,8 @@
+NOMBRE   : grettzel
+APELLIDO :vargas
+EDAD  :1
+SEXO  :r
+DNI   :3
+DIRECCION :r
+TELEFONO :3
+INFORMACION:r
